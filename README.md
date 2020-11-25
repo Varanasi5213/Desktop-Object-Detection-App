@@ -14,4 +14,4 @@ Executed python code using the Python powershell inside the elctron application.
 
 ## Flow of the Project
 
-![Screenshot] (Untitled Diagram.png)
+![Screenshot](https://github.com/Varanasi5213/Desktop-Object-Detection-App/blob/main/Untitled%20Diagram.png)
