@@ -11,3 +11,7 @@ Integrated the yolo v3 model into the pytyhon code for object detection, which t
 The desktop application is powerd by the electron API and Node JS. 
 
 Executed python code using the Python powershell inside the elctron application. 
+
+## Flow of the Project
+
+![Screenshot](Untitled Diagram.png)
